@@ -112,6 +112,7 @@ def get_user_input() -> Dict[str, float]:
         )
         input_data['origin'] = origin_option
         
+        
     return input_data
 
 # --- 5. PREDICTION ---
